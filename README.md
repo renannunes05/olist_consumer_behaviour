@@ -4,7 +4,7 @@ Olist is the largest department store in Brazilian marketplaces. The data is ava
 
 The idea for this project was to analyse consumer behavior patterns and trends to support the marketing team to set the next campaign.
 
-I used SQL in BigQuery to perform the analysis and the findings were summarized on a [Tableau Dashboard](https://public.tableau.com/app/profile/renan.nunes/viz/OLIST_17213253050220/Dashboard1#1) and here below are some of the conclusions:
+I used SQL in BigQuery to perform the analysis, the findings were summarized on a [Tableau Dashboard](https://public.tableau.com/app/profile/renan.nunes/viz/OLIST_17213253050220/Dashboard1#1) and here below are some of the conclusions:
 
 ![Olist - Dashboard](https://github.com/user-attachments/assets/bc4b6a30-b295-447e-ac6c-0c47ca4a8347)
 
