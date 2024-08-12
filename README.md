@@ -6,8 +6,6 @@ The idea for this project was to analyse consumer behavior patterns and trends t
 
 I used SQL in BigQuery to perform the analysis, the findings were summarized on a [Tableau Dashboard](https://public.tableau.com/app/profile/renan.nunes/viz/OLIST_17213253050220/Dashboard1#1) and here below are some of the conclusions:
 
-![Olist - Dashboard](https://github.com/user-attachments/assets/1f42845b-7091-409c-b198-4f41e8c57606)
-
 ## Key takeaways:
 
 - Even though 77% of transactions were rated 3 or plus out of 5, only 3.5% of customers returned for at least a second time. It is keen to investigate customer experience in depth to understand this issue.
