@@ -1,8 +1,14 @@
 # Olist - Consumer Behaviour analysis
 
-Olist is the largest department store in Brazilian marketplaces. The datasets are available on [Kaggle](https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce) and has information of 100k orders from 2016 to 2018. It allows a detailed view of an order, from price to payment, customer location and reviews. 
+Olist is the largest department store in Brazilian marketplaces. The dataset is available on [Kaggle](https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce) and has information on 100k orders from 2016 to 2018. It allows a detailed view of an order, from price to payment, customer location and reviews. 
 
 The idea for this project was to analyse consumer behavior patterns and trends to support the marketing team to set the next campaign.
+
+## Data Schema
+
+![image](https://github.com/user-attachments/assets/82b61879-71d4-4dea-8cbf-519f6463d62e)
+
+
 
 I used SQL in BigQuery to perform the analysis, the findings were summarized on a [Tableau Dashboard](https://public.tableau.com/app/profile/renan.nunes/viz/OLIST_17213253050220/Dashboard1#1) and here below are some of the conclusions:
 
