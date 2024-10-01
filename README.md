@@ -10,14 +10,14 @@ The idea for this project was to analyse consumer behavior patterns and trends t
 
 
 
-I used SQL in BigQuery to perform the analysis, the findings were summarized on a [Tableau Dashboard](https://public.tableau.com/app/profile/renan.nunes/viz/OLIST_17213253050220/Dashboard1#1) and here below are some of the conclusions:
+I used [SQL](https://github.com/renannunes05/olist_consumer_behaviour/blob/main/olist.sql) in BigQuery to perform the analysis, the findings were summarized on a [Tableau Dashboard](https://public.tableau.com/app/profile/renan.nunes/viz/OLIST_17213253050220/Dashboard1#1) and here below are some of the conclusions:
 
 ## Key takeaways:
 
-- Even though 77% of transactions were rated 3 or plus out of 5, only 3.5% of customers returned for at least a second time. It is keen to investigate customer experience in depth to understand this issue.
-- The top 10 performing product categories correspond to 68% percent of total sales and should be the focus when addressing how to increase sales.
-- The average value of PCs orders is almost ten times higher than the average order value. Computers and accessories appear in the top 10 performing product categories. Therefore, this group is very strategic when leveraging revenue.
-- 42% of customers live in São Paulo, which is also where 59% of sellers are located. It suggests that lower freight prices or/and faster deliveries impact positively on consumers' purchase decisions.
-- Customers shop more during the week with higher frequencies from 10AM to 4PM. This is important when considering the best time to promote marketing actions that encourage more purchases.
-- Regarding payment methods, 78% of purchases used credit cards and 66% of that were made in two or more instalments. We can direct marketing efforts towards consumers who follow credit card pages on social media, for instance.
+- Even though **77% of transactions** were rated **3 or plus out of 5**, only **3.5% of customers returned** for at least a second time. To understand this issue, it is keen to **investigate customer experience in depth**.
+- The **top 10 performing product categories** correspond to **68% of total sales** and should be the focus when addressing **how to increase sales**.
+- The **average value of PCs orders** is almost **ten times higher** than the average order value. **Computers and accessories** appear in the **top 10 performing product categories**. Therefore, this group is very strategic when **leveraging revenue**.
+- **42% of customers live in São Paulo**, which is also where **59% of sellers** are located. It suggests that **lower freight prices** or/and **faster deliveries** positively impact consumers' purchase decisions.
+- **Customers shop more during the week** with higher frequencies from 10 AM to 4 PM. This is important when **considering the best time to promote marketing actions** that encourage more purchases.
+- Regarding payment methods, **78% of purchases used credit cards** and **66% of them were made in two or more instalment**s. An effective strategy could be **directing marketing efforts towards consumers who follow credit card pages on social media**, for instance.
 
